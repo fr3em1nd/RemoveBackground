@@ -1,5 +1,6 @@
-# start service
+#start service
 python remove_background.py
 
-# test service
+#test service
 python test.py
+requires: pip install requests
